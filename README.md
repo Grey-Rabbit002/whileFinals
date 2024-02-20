@@ -16,17 +16,26 @@ While was founded to revolutionize the way of learning in youth by giving them a
 
 # Features
 
-## Frontend Features
-* Home page
-* Community section 
-* Shots Section
-* Profile Section
+## Frontend Features 
+
+Home Page
+Community Section
+Shots Section (Gallery)
+Profile Section
 
 ## Backend Features
-* Admin
-* Database setup 
-* Server
-* Compression of data
+
+Admin Panel
+Database Setup
+Backup and recovery mechanisms.
+Server
+API endpoints for frontend-backend communication.
+Integration with payment gateways and external services.
+Security protocols to protect user data and transactions.
+Compression of Data
+Implementation of data compression techniques to optimize load times.
+Image and content optimization for faster rendering.
+Caching strategies for frequently accessed data.
 
 ## 🎯 How to Start Contributing <a name = "how_contribute"></a>
 1. Fork this repository by clicking on the fork button on the top of this page. This will create a copy of this repository in your account.
